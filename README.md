@@ -1,2 +1,2 @@
-# MixFader-Leonardo
+# MixFader-ESP
 Diy MixFader Bluetooth Midi
